@@ -2,6 +2,7 @@
 assets/cert
 /assets/img
 /assets/video
+/assets/scss
 *.ini
 *.config
 *.txt
