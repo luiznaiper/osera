@@ -1,11 +1,5 @@
-/assets/vendor
-assets/cert
-/assets/img
-/assets/video
-/assets/scss
 *.ini
 *.config
 *.txt
 *.map
-*.md
-*.png
+*.Identifier
