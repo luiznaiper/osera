@@ -4,3 +4,4 @@
 *.map
 *.Identifier
 *.attrs
+*.DS_Store
